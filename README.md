@@ -1,4 +1,9 @@
-# co-termination
+# CO-Termination using VueJS
+## Dependencies
++ VueJS 2.6.11
++ VueX
++ Vuetify
++ Vee-validate
 
 ## Project setup
 ```
