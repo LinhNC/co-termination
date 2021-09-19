@@ -5,6 +5,8 @@
 + Vuetify
 + Vee-validate
 
+## Demo: https://co-termination.pages.dev/
+
 ## Project setup
 ```
 npm install
