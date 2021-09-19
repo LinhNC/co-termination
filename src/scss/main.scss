@@ -1,0 +1,29 @@
+@import "~vuetify/src/styles/styles.sass";
+
+// Set border for tables
+$table-border: thin solid rgba(0, 0, 0, 0.12);
+
+.c-table-bordered {
+    table {
+        border: $table-border;
+        border-radius: 5px;
+
+        th {
+            border-left: $table-border;
+        }
+
+        th:last-child {
+            border-left: $table-border;
+            border-right: $table-border;
+        }
+
+        td {
+            border-left: $table-border;
+        }
+
+        td:last-child {
+            border-left: $table-border;
+            border-right: $table-border;
+        }
+    }
+}
