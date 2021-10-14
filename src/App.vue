@@ -46,6 +46,7 @@ export default {
   data() {
     return {
       appTitle: APP_TITLE,
+	  test:"",
     };
   },
   computed: {},
