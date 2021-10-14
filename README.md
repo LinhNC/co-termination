@@ -4,6 +4,7 @@
 + VueX
 + Vuetify
 + Vee-validate
++  Test
 
 ## Demo: https://co-termination.pages.dev/
 
