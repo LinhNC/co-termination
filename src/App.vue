@@ -17,7 +17,7 @@
     </v-app-bar>
 
     <v-main>
-      <!-- Loading -->
+      <!-- Loading... -->
       <!-- <v-overlay :value="$store.getters.getIsLoading">
         <v-progress-circular
           indeterminate
